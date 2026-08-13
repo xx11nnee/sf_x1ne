@@ -1,0 +1,54 @@
+# =========================
+# Compiled files
+# =========================
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# =========================
+# Debug files
+# =========================
+*.pdb
+*.dSYM/
+*.stackdump
+
+# =========================
+# Build directories
+# =========================
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.log
+*~
+
+# =========================
+# Test output
+# =========================
+output-report.html
